@@ -48,7 +48,7 @@ export default function Contact() {
                 <Mail className="w-4 h-4 text-orange-500 shrink-0" />
               </div>
               <a
-                href="mailto:daudkhan@example.com"
+                href="mailto:daudkhan8770@example.com"
                 className="hover:text-orange-400 transition-colors"
               >
                 daudkhan8770@gmail.com

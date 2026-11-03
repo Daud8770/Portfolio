@@ -27,7 +27,7 @@ export const projectsData = [
     description: "Modern dark-themed portfolio website with interactive animations aur responsive UI.",
     image: portfolioImg,
     tech: ["React", "Tailwind CSS", "Lucide Icons"],
-    liveLink: "#",
+    liveLink: "https://portfolio-seven-murex-de3zlj71fo.vercel.app/",
     githubLink: "https://github.com/Daud8770/portfolio"
   }
 ];

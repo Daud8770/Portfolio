@@ -24,15 +24,16 @@ const Hero = () => {
     }, []);
 
     return (
-        <div
-            id="home"
-            className="relative flex min-h-screen items-center justify-start 
-bg-[url('/Hero-bg.png')] bg-cover bg-center bg-no-repeat 
-px-4 pt-20 text-white
-sm:px-6 sm:pt-24
-md:px-12
-lg:px-24
-xl:px-40">
+      <div
+  id="home"
+  className="relative flex min-h-screen items-center justify-start 
+  bg-[url('/Hero-bg.png')] bg-cover bg-[center_left] sm:bg-center bg-no-repeat 
+  px-4 pt-20 text-white
+  sm:px-6 sm:pt-24
+  md:px-12
+  lg:px-24
+  xl:px-40"
+>
             {/* dark overlay */}
             <div className="absolute inset-0 bg-black/50"></div>
 

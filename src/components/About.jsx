@@ -36,10 +36,11 @@ const  About=()=> {
           </h2>
 
           <p className="text-gray-400 text-sm md:text-base leading-relaxed max-w-2xl">
-            I'm Daud, a passionate Frontend Developer from Bhopal. I specialize
+            I'm Daud, a passionate Frontend Developer . I specialize
             in building responsive, user-friendly web applications using React,
             Tailwind CSS, Redux Toolkit, and modern JavaScript. Currently, I'm
             focused on crafting clean UI experiences and real-world projects.
+            Seeking Frontend Devloper and React.js Devloper and full time .
           </p>
 
           <div className="pt-2">
